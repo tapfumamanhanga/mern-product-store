@@ -35,11 +35,8 @@ Root/Backend .env Example:
 NODE_ENV=development
 PORT=5000
 MONGO_URI=mongodb+srv://<user>:<password>@clustername.mongodb.net/mern_store?retryWrites=true&w=majority
-JWT_SECRET=your_strong_jwt_secret
-# Payment Gateway Keys (e.g., Stripe)
-STRIPE_SECRET_KEY=sk_test_...
-
-
+JWT_SECRET=your_strong_jwt_secret  
+  
 3. Install Dependencies
 Install packages for both the backend and frontend.  
 Bash  
