@@ -41,12 +41,11 @@ STRIPE_SECRET_KEY=sk_test_...
 
 
 3. Install Dependencies
-Install packages for both the backend and frontend.
-
-Bash
-
-# Install backend dependencies
-npm install
+Install packages for both the backend and frontend.  
+Bash  
+  
+# Install backend dependencies  
+npm install  
 
 # Change directory to the client (frontend) folder and install
 cd client
