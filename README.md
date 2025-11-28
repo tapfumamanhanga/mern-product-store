@@ -1,4 +1,5 @@
 #🛍️ MERN Stack E-commerce Store
+This is an E-commerce Store
 #✨ Features
 #Product Catalog: Simple CRUD capability
 #🛠️ Tech Stack
